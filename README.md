@@ -1,79 +1,87 @@
 # How-to-make-TOP5-videos
 
-ello guys. Today we have a tutorial of how to make TOP5 videos. 爱咯盖子。今天我们学习如何制作TOP5视频。
+## **English** | [简体中文](/README-zh_cn.md)
 
-欢迎你在学成归来后为本仓库做贡献。你可以分享你的视频草稿，把它保存到`video_draft`文件夹下，并命名为视频的id或av号。你只需要在GitHub上fork（创建分支）本仓库，并将自己的视频草稿上传后向我提出pull request（合并代码请求）。只要符合的我都会通过。关于视频草稿的样子，请看`video_draft`文件夹或下面的教程。
+###### Translate by ChatGPT.
 
-# 前言
+ello guys. Today we have a tutorial of how to make TOP5 videos.
 
-Top 5 视频是最近兴起的网络meme。它以西班牙口音的英文配音、青色的视频背景和每次5个视频的特点在视频平台上有很多人制作，并且也有很多人观看。这种风格最初是由YouTube用户[squewe](https://www.youtube.com/@squewe)定义的。由于这种视频制作简单，具有一定幽默性，[squewe](https://www.youtube.com/@squewe)已经在YouTube上发布了224个视频，并拥有106万订阅者。[截止2023/7/22]。除了squewe，相关的创作者在B站也有出现，如[squwe@bilibili](https://space.bilibili.com/1211770205)、[坦然奥特@bilibili](https://space.bilibili.com/2014827662)
+Welcome back to those who have completed their learning journey. We invite you to contribute to this repository by sharing your video drafts. Simply save them in the `video_draft` folder, using the video's url as the filename. To participate, fork this repository on GitHub, upload your video drafts, and submit a pull request. Rest assured, if it aligns with our guidelines, we shall gladly approve it. For a glimpse of video draft samples, refer to the `video_draft` folder or the tutorial below.
 
-# 步骤
+# Preface
 
-1. 选题：选题很重要。你的题目就是视频的标题，如：Top 5 汉堡、Top 5 跳脸、Top 5 猫。任何无聊或有趣的内容都可以用作选题。  
-2. 素材：你的素材可以来自任何视频。通常去meme集锦中可以找到，或自行搜索。  
-3. 列表：将你搜到的视频整理出一个列表，你可能找到了多于五个的视频，那么你可以筛选一下哪些应当放入视频中。  
-4. 视频草稿：
-   1. 总结视频排名顺序，列一个列表，最好加上每个排名的视频链接；
-   2. 为你选取的内容撰写文字稿。它们将会粘贴到文字转语音软件中处理成音频（也就是开头那句熟悉的ello guys）。注意，为了音频效果到位，部分需要手动添加错别词纠正读音，如  
-        - guys -> gays
-        - number [n] -> numero [n]
-        - ABC -> A.B.C   （添加点，让朗读停顿一下）
-   
-   我选择性列了个文档。你可以不用列这个。
+Top 5 videos have emerged as a popular internet meme. Characterized by a Spanish-accented English voiceover, blue video background, and featuring five videos each time, these videos have gained significant attention and viewership on various platforms. This style was initially defined by YouTube user [squewe](https://www.youtube.com/@squewe). Leveraging the simplicity and humor, [squewe](https://www.youtube.com/@squewe) has uploaded 224 videos and amassed 1.06 million subscribers on YouTube. [As of July 22, 2023]. Similar creators have also appeared on Bilibili, such as [squwe@bilibili](https://space.bilibili.com/1211770205) and [坦然奥特@bilibili](https://space.bilibili.com/2014827662).
+
+# Steps
+
+1. Topic Selection: The choice of topic is paramount. Your title is the essence of the video, such as "Top 5 Burgers," "Top 5 Funny Faces," or "Top 5 Cats." Any intriguing or mundane content can be used as a topic.
+
+2. Materials: Your source material can come from any videos. You can find them in meme compilations or conduct your own search.
+
+3. List: Organize the videos you found into a list. You may have more than five videos, so you can select which ones to include in the final video.
+
+4. Video Draft:
+   - Summarize the order of the videos in a list, preferably with links to each ranked video.
+   - Compose a script for the selected content. This script will be processed into audio using a text-to-speech software (the familiar "ello guys" introduction). Note that for optimal audio effect, some manual corrections are needed for pronunciation, such as:
+      - guys -> gays
+      - number [n] -> numero [n]
+      - ABC -> A.B.C (adding pauses with dots for a natural reading flow)
+
+   Optionally, I've listed a sample document below. Feel free to use or modify it.
    ```
    # Top 5 xxxxxxxx
 
-    ## 找到的视频
+    ## Found Videos
 
-    视频 A
-    视频 D
-    视频 C
-    视频 E
-    视频 B
-    视频 F
-    视频 G
+    Video A
+    Video D
+    Video C
+    Video E
+    Video B
+    Video F
+    Video G
 
-    ## 最终决定要做的顺序
+    ## Final Order Decided
 
-    5. 视频 D
-    4. 视频 B
-    3. 视频 A
-    2. 视频 C
-    荣誉提名：视频 F
-    1. 视频 E
+    5. Video D
+    4. Video B
+    3. Video A
+    2. Video C
+    Honorable Mention: Video F
+    1. Video E
 
-    # tts文字稿
+    # TTS Script
 
-    hello gays.
-    today we have a list of top 5 xxxxxx.
-    number 5. [.....]. 
-    number 4. [.....].
-    number 3. [.....].
-    number 2. [.....].
-    honorable mention.
-    number 1. [.....].
+    Hello gays.
+    Today we have a list of top 5 xxxxxx.
+    Number 5. [.....]. 
+    Number 4. [.....].
+    Number 3. [.....].
+    Number 2. [.....].
+    Honorable mention.
+    Number 1. [.....].
 
-    （注意：有的文字读不对，需要手动添加错别词纠正，如guys）
+    (Note: Some words are not pronounced correctly, requiring manual corrections, such as "guys")
    ```
 
-5. 文字转语音：将你准备好的文字稿导入到[https://lazypy.ro/tts](https://lazypy.ro/tts/?voice=6-2-2&service=Oddcast&text=&lang=Spanish&g=A)里由Oddcast训练的Jorge (Spanish, Castilian)文字转语音模型。这个模型产生的语音是TOP5视频的灵魂所在。输入文字后，点击`Say It`，将会生成一个音频。点击三个点，可以保存它。  
-6. 剪辑：
-   1. 打开如**Adobe Premiere Pro**、**剪映专业版**、**必剪**的视频剪辑软件；  
-   2. 导入TOP5的视频文件；  
-   3. 导入文字转语音的音频文件；  
-   4. 创建一个颜色为`rgb(0, 255, 255)` 或 `#00ffff`的背景；  
-   5. 按照生成的文字稿添加颜色为`rgb(255, 255, 255)` 或 `#ffffff`的文字，字体可选择Windows系统自带的`MS Reference Sans Serif`；  
-   6. 添加文字和视频，重复以上操作。  
-   7. 在结尾，可以添加自己的署名，也可以不添加任何信息。  
-   
-   需要注意的是，制作过程中
+5. Text-to-Speech (TTS): Import your prepared script into [https://lazypy.ro/tts](https://lazypy.ro/tts/?voice=6-2-2&service=Oddcast&text=&lang=Spanish&g=A), which uses the Jorge (Spanish, Castilian) text-to-speech model by Oddcast. The audio generated by this model embodies the essence of TOP5 videos. After entering the text, click "Say It" to generate the audio. You can save it by right clicking.
 
-   1. 每一个视频的长度不要过长；  
-   2. 可以适当压制视频码率和分辨率，使其看起来有电子包浆；  
-   3. 荣誉提名不应该与主题有太大关系。  
-7. 发布：在你要发的网站上传视频即可。
+6. Editing:
+   - Open video editing software such as **Adobe Premiere Pro**, **Final Cut Pro**, etc.
+   - Import the TOP5 video files.
+   - Import the text-to-speech audio files.
+   - Create a background with the color `rgb(0, 255, 255)` or `#00ffff`.
+   - Add text with the color `rgb(255, 255, 255)` or `#ffffff`, using the Windows system font `MS Reference Sans Serif`.
+   - Combine the video clips and the audio by repeating the process.
+   - At the end, you can add your signature or leave it blank.
 
-# 是用ChatGPT做的吗？
+   Throughout the editing process:
+   - Keep each video's length moderate.
+   - You can compress video bitrate and resolution slightly to achieve a vintage electronic feel.
+   - The honorable mention should have minimal thematic relation to the main content.
 
-不是，但这个文章的风格也太像了……（x
+7. Publishing: Upload the video to Internet platform.
+
+# Is This Done Using ChatGPT?
+
+No, it's not. But the style of this article is strikingly similar...
